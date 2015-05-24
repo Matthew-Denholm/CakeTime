@@ -1,0 +1,17 @@
+name: CakeTime
+main: me.c0wg0d.caketime.CakeTime
+author: c0wg0d
+description: CakeTime is a game where players race to collect an item.  First one to get the item wins!
+version: 1.0
+softdepend: [TerrainControl]
+
+commands:
+    caketime:
+        usage: /<command>
+        description: It's caketime!
+    players:
+        usage: /<command>
+        description: Lists the players in the game
+    cleartitle:
+        usage: /<command>
+        description: Clear title
