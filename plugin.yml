@@ -15,3 +15,12 @@ commands:
     cleartitle:
         usage: /<command>
         description: Clear title
+    goal:
+        usage: /<command>
+        description: Lists the item(s) required to win the game
+    objective:
+        usage: /<command>
+        description: Lists the item(s) required to win the game
+    goto:
+        usage: /<command>
+        description: Teleports you to a player
